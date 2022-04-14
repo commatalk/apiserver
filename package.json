@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "cc-checkit": "^1.0.2",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
